@@ -3,7 +3,7 @@
 ## Info:
 > 
 > Commands Work ! 
-> - (Pinger)
+> - (pinger)
 >
 > Edit message !
 >  - (check in config.yml)
