@@ -1,0 +1,18 @@
+---
+#------------------------------------------------------------------------#
+success.normal.message: "§e§l» §r§ePing detected : "
+
+error.detect.message: "§c§l» §r§cPlayer does not exist."
+
+error.perm.message: "§c§l» §r§cYou do not have permission to use this option."
+#------------------------------------------------------------------------#
+
+#------------------#
+os.ping: LinuxOrMacOS
+
+#Option: /!\
+
+#- LinuxOrMacOS
+#- Windows
+#------------------#
+...
