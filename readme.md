@@ -1,5 +1,7 @@
 # Super Pinger for Pocketmine-server !
 
+## Look the "MS" of players !
+
 ## Info:
 > 
 > Commands Work ! 
